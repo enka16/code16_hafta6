@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Projenin tamamı için:  https://drive.google.com/file/d/1QCN4HFNM-FsiEtj6Y3eu03Dg2A-XEeKW/view?usp=drive_link
+
+Vercel Link:  https://vercel.com/enes-kayas-projects/code16-hafta6
